@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ktc\\Downloads\\\u65B0\u3057\u3044\u30D5\u30A9\u30EB\u30C0\u30FC\\jugyou\\",
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E8A6277-32CC-4863-8438-69088D5EEB9A}|jugyou\\jugyou.vcxproj|C:\\Users\\ktc\\Downloads\\\u65B0\u3057\u3044\u30D5\u30A9\u30EB\u30C0\u30FC\\jugyou\\jugyou\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7E8A6277-32CC-4863-8438-69088D5EEB9A}|jugyou\\jugyou.vcxproj|C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\DX12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E8A6277-32CC-4863-8438-69088D5EEB9A}|jugyou\\jugyou.vcxproj|solutionrelative:jugyou\\DX12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8A6277-32CC-4863-8438-69088D5EEB9A}|jugyou\\jugyou.vcxproj|C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7E8A6277-32CC-4863-8438-69088D5EEB9A}|jugyou\\jugyou.vcxproj|solutionrelative:jugyou\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DX12.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\DX12.cpp",
+              "RelativeDocumentMoniker": "jugyou\\DX12.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\DX12.cpp",
+              "RelativeToolTip": "jugyou\\DX12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T07:30:34.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Downloads\\\u65B0\u3057\u3044\u30D5\u30A9\u30EB\u30C0\u30FC\\jugyou\\jugyou\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\main.cpp",
               "RelativeDocumentMoniker": "jugyou\\main.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Downloads\\\u65B0\u3057\u3044\u30D5\u30A9\u30EB\u30C0\u30FC\\jugyou\\jugyou\\main.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\main.cpp",
               "RelativeToolTip": "jugyou\\main.cpp",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAE8AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-11T07:03:06.858Z",
               "EditorCaption": ""

@@ -1,0 +1,13 @@
+.vs/
+*.ipch
+*.suo
+*.vc.opendb
+*.vc.db-wal
+*.vc.db-shm
+*.vsidx
+*.ilk
+*.pdb
+*.tlog
+*.obj
+*.log
+*.idb
