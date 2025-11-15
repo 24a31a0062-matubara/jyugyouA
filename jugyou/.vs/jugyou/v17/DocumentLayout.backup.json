@@ -3,12 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E8A6277-32CC-4863-8438-69088D5EEB9A}|jugyou\\jugyou.vcxproj|C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7E8A6277-32CC-4863-8438-69088D5EEB9A}|jugyou\\jugyou.vcxproj|solutionrelative:jugyou\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\DX12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:jugyou\\DX12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8A6277-32CC-4863-8438-69088D5EEB9A}|jugyou\\jugyou.vcxproj|C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E8A6277-32CC-4863-8438-69088D5EEB9A}|jugyou\\jugyou.vcxproj|solutionrelative:jugyou\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,24 +26,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "apiset.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-25T09:03:41.864Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DX12.cpp",
               "DocumentMoniker": "C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\DX12.cpp",
               "RelativeDocumentMoniker": "jugyou\\DX12.cpp",
               "ToolTip": "C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\DX12.cpp",
               "RelativeToolTip": "jugyou\\DX12.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-25T07:30:34.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\main.cpp",
               "RelativeDocumentMoniker": "jugyou\\main.cpp",
               "ToolTip": "C:\\Users\\ktc\\Downloads\\jyugyou\\jugyou\\jugyou\\main.cpp",
               "RelativeToolTip": "jugyou\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-11T07:03:06.858Z",
               "EditorCaption": ""
